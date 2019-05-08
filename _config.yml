@@ -1,1 +1,11 @@
+# Setup
+title: 996 solidarity
+tagline: 996 关注组
 theme: jekyll-theme-cayman
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
